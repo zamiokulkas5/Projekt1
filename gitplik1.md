@@ -3,3 +3,6 @@ Pierwszy dodatkowy plik
 
 Edycja I:
 18.12.2021 20:26
+
+Edycja II:
+18.12.2021 20:39
